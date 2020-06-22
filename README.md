@@ -7,6 +7,8 @@ AlloyMC is an updated version of Alloy with a new feature of model counting funt
 Details of ApproxMC can be found at: https://github.com/meelgroup/ApproxMC.
 Details of ProjMC can be found at: http://www.cril.univ-artois.fr/kc/projmc.html.
 
+To access the source code of AlloyMC, please visit the "model_count" branch of this repository. We're working on some improvements of the model counting function. Once the new improvements are completed, we will merge this feature branch to the master branch.
+
 The latest runnable JAR file of AlloyMC is located under the "AlloyMC_distributed_JAR" directory (will be updated when new updates are made). This JAR file can also be built in Eclipse IDE with Bndtools plugin and be found under org.alloytools.alloy.dist/target. The 10 selected Alloy models for model counting function's testing are uploaded to the "AlloyMC_expAlloyModels" directory.
 
 Note: Our design of AlloyMC also allows other model counters to be added in a convenient way. This part will be a future work.
